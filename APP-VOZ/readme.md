@@ -24,7 +24,7 @@ El objetivo de esta práctica es desarrollar un sistema de control remoto de un 
 
 ## Diagrama del circuito
 
-[Ver diagrama del sistema](Diagramas/Diagrama%20del%20Sistema%20de%20Control%20Remoto%20por%20Voz%20usando%20Arduino%2C%20WiFi%20y%20Reconocimiento%20de%20Voz.jpg)
+![Diagrama del sistema](Diagramas/Diagrama%20del%20Sistema%20de%20Control%20Remoto%20por%20Voz%20usando%20Arduino%2C%20WiFi%20y%20Reconocimiento%20de%20Voz.jpg)
 
 ## Código
 
@@ -37,9 +37,9 @@ El objetivo de esta práctica es desarrollar un sistema de control remoto de un 
 
 ## Evidencias de armado
 
-- [Ver armado del sistema](Diagramas/Armado%20del%20Sistema%20de%20Control%20Remoto%20por%20Voz%20usando%20Arduino%2C%20WiFi%20y%20Reconocimiento%20de%20Voz.jpg)
-- [Ver programa en bloques](Diagramas/Programa%20en%20bloques.jpg)
-- [Ver terminal](Diagramas/Terminal.jpeg)
+![Armado del sistema](Diagramas/Armado%20del%20Sistema%20de%20Control%20Remoto%20por%20Voz%20usando%20Arduino%2C%20WiFi%20y%20Reconocimiento%20de%20Voz.jpg)
+![Programa en bloques](Diagramas/Programa%20en%20bloques.jpg)
+![Terminal](Diagramas/Terminal.jpeg)
 
 Las evidencias principales se encuentran en la carpeta **Diagramas**.
 
