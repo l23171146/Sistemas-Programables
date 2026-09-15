@@ -24,7 +24,7 @@ El objetivo de esta práctica es desarrollar un sistema de control remoto de un 
 
 ## Diagrama del circuito
 
-![Diagrama del sistema](Diagramas/Diagrama%20del%20Sistema%20de%20Control%20Remoto%20por%20Voz%20usando%20Arduino%2C%20WiFi%20y%20Reconocimiento%20de%20Voz.jpg)
+![Diagrama del sistema](Diagramas/Diagrama%20del%20%20Sistema%20de%20Control%20Remoto%20por%20Voz%20usando%20Arduino%2C%20WiFi%20y%20Reconocimiento%20de%20Voz.jpg)
 
 ## Código
 
