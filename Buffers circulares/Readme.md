@@ -25,7 +25,7 @@ Este proyecto implementa un sistema de detección de eventos mediante un pulsado
 
 ## Diagrama
 
-![Diagrama del circuito](Diagrama/Diagrama%20Buffers.png)
+![Diagrama del circuito](Diagrama/Diagrama.jpg)
 
 ![Armado](Diagrama/Armado.jpeg)
 
