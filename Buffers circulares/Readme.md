@@ -25,9 +25,9 @@ Este proyecto implementa un sistema de detección de eventos mediante un pulsado
 
 ## Diagrama
 
-![Diagrama del circuito](Diagrama/Diagrama.jpg)
+![Diagrama del circuito](Diagrama/Diagrama.jpeg)
 
-![Armado](Diagrama/Armado.jpeg)
+![Armado](Diagrama/Armado.jpg)
 
 [Ver carpeta Diagrama](Diagrama)
 
