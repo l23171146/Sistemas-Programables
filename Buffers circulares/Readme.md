@@ -59,14 +59,9 @@ Mientras se detectaban y procesaban los eventos, la animación de la matriz de L
 
 ## Conclusiones
 
-### Gabriel
+La práctica permitió comprender el funcionamiento de las interrupciones externas, utilizando un pulsador como simulación de un sensor de piezas para detectar eventos de manera inmediata mientras el Arduino realiza otras tareas.
 
-En esta práctica comprendí cómo las interrupciones externas permiten que el Arduino detecte eventos de manera inmediata mientras realiza otras tareas. También aprendí la utilidad del buffer circular para almacenar temporalmente los eventos del pulsador y procesarlos posteriormente sin detener la animación de la matriz de LEDs.
+El uso del buffer circular permitió almacenar los eventos detectados y procesarlos posteriormente, mientras que el filtro de rebote ayudó a evitar registros múltiples ocasionados por una misma pulsación. Además, el uso de `millis()` permitió mantener la animación de la matriz de LEDs sin bloquear la ejecución del programa.
 
-### Javier
+En conjunto, la práctica permitió relacionar las interrupciones, el almacenamiento mediante un buffer circular y la programación no bloqueante, comprobando cómo el Arduino puede responder a eventos externos sin detener las demás tareas que está realizando.
 
-Durante la práctica aprendí la importancia de mantener una rutina de interrupción rápida y sencilla. El uso del filtro de rebote permitió evitar que una sola pulsación del botón fuera registrada varias veces, mientras que los contadores `escritos` y `leidos` facilitaron el control de los eventos almacenados en el buffer.
-
-### Rosa
-
-Esta práctica me permitió comprender cómo realizar varias tareas al mismo tiempo utilizando una programación no bloqueante. La animación de la matriz continúa funcionando mientras el Arduino detecta y procesa las pulsaciones del botón, mostrando cómo las interrupciones, `millis()` y el buffer circular pueden trabajar juntos para responder a eventos sin detener el programa.
