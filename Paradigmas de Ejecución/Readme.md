@@ -36,9 +36,9 @@ La primera parte utiliza `delay()`, mientras que la segunda utiliza `millis()` p
 
 El diagrama muestra la conexión de los tres LEDs y los componentes utilizados para realizar la práctica.
 
-![Diagrama del circuito](Diagrama/Diagrama_delay_y_millis.png)
+![Diagrama del circuito](Diagrama/Diagrama_delay()_y_millis().png)
 
-![Montaje físico](Diagrama/Armado.png)
+![Montaje físico](Diagrama/Armado.jpeg)
 
 [Ver carpeta Diagrama](Diagrama)
 
@@ -46,9 +46,9 @@ El diagrama muestra la conexión de los tres LEDs y los componentes utilizados p
 
 La práctica cuenta con dos versiones del programa. La primera utiliza `delay()` para controlar los intervalos de los LEDs, mientras que la segunda utiliza `millis()` para realizar el control sin bloquear la ejecución del programa.
 
-[Ver código Parte 1 - delay()](Codigo/Parte1_delay.ino)
+[Ver código Parte 1 - delay()](Codigo/delay().ino)
 
-[Ver código Parte 2 - millis()](Codigo/Parte2_millis.ino)
+[Ver código Parte 2 - millis()](Codigo/millis().ino)
 
 [Ver carpeta Codigo](Codigo)
 
@@ -56,9 +56,8 @@ La práctica cuenta con dos versiones del programa. La primera utiliza `delay()`
 
 El reporte contiene la explicación del desarrollo de la práctica, la comparación entre `delay()` y `millis()`, el análisis del comportamiento de los LEDs y las conclusiones obtenidas.
 
-[Ver Reporte](Reporte/Reporte_delay_millis.pdf)
+[Ver Reporte](Reporte/Reporte.pdf)
 
-[Ver carpeta Reporte](Reporte)
 
 ## Resultados
 
