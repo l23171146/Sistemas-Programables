@@ -45,12 +45,6 @@ El reporte explica el funcionamiento de las interrupciones externas, el buffer c
 [Ver reporte](Reporte/Reporte.pdf)
 
 
-## Resultados
-
-Durante las pruebas, el pulsador generó una interrupción externa al ser presionado, registrando los eventos en el buffer circular. El filtro de rebote de 50 ms permitió evitar registros múltiples ocasionados por una sola pulsación.
-
-Mientras se detectaban y procesaban los eventos, la animación de la matriz de LEDs continuó funcionando sin detenerse. Los contadores `escritos` y `leidos` permitieron controlar los eventos almacenados y el programa también pudo detectar cuando el buffer alcanzaba su capacidad máxima.
-
 ## Video
 
 [Ver video](https://youtu.be/R35mJx2twG4)
