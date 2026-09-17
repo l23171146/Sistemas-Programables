@@ -36,7 +36,7 @@ La primera parte utiliza `delay()`, mientras que la segunda utiliza `millis()` p
 
 El diagrama muestra la conexión de los tres LEDs y los componentes utilizados para realizar la práctica.
 
-![Diagrama del circuito](Diagramas/Diagrama delay() y millis().png)
+![Diagrama del circuito](Diagramas/Diagrama.png)
 
 ![Montaje físico](Diagramas/Armado.jpeg)
 
