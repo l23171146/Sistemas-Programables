@@ -49,7 +49,7 @@ La temporización se realiza mediante `millis()` para evitar bloquear la ejecuci
 
 [Ver código](Codigo/Semaforo.ino)
 
-[Ver carpeta Codigo](Codigo)
+
 
 ## Reporte
 
@@ -57,7 +57,6 @@ El reporte contiene la explicación del funcionamiento del sistema, la metodolog
 
 [Ver Reporte](Reporte/Reporte.pdf)
 
-[Ver carpeta Reporte](Reporte)
 
 ## Resultados
 
