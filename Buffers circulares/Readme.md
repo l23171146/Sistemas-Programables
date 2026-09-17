@@ -37,7 +37,6 @@ El programa utiliza una interrupción externa en el pin 2 para detectar las puls
 
 [Ver código Buffers.ino](Codigo/Buffers.ino)
 
-[Ver carpeta Codigo](Codigo)
 
 ## Reporte
 
@@ -45,7 +44,6 @@ El reporte explica el funcionamiento de las interrupciones externas, el buffer c
 
 [Ver reporte](Reporte/Reporte.pdf)
 
-[Ver carpeta Reporte](Reporte)
 
 ## Resultados
 
