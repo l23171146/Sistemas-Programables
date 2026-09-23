@@ -57,17 +57,20 @@ Las líneas SDA y SCL son compartidas entre los cuatro Arduino y todos utilizan 
 
 ## Código
 
-El proyecto utiliza cuatro programas diferentes, uno para cada Arduino.
+El proyecto contiene cinco archivos de código utilizados para la implementación y las pruebas de la comunicación I2C:
 
-El **Arduino maestro** se encarga de comunicarse con los tres esclavos, recibir el valor del potenciómetro, convertirlo a un ángulo de 0° a 180° y enviarlo al servomotor. También permite controlar el LED mediante el Monitor Serie.
+* [MaestroR4.ino](Codigo/MaestroR4.ino) — Programa del **Arduino maestro adaptado para UNO R4 WiFi**, encargado de controlar el LED, recibir el valor del potenciómetro y controlar el servomotor.
 
-El **Esclavo 1** recibe una orden del maestro para encender o apagar el LED y utiliza la dirección `0x08`.
+* [Master.ino](Codigo/Master.ino) — Programa del **Arduino maestro**, utilizado como versión de referencia para la comunicación I2C y el control de los dispositivos.
 
-El **Esclavo 2** recibe el ángulo enviado por el maestro y controla el servomotor mediante el pin 9. Su dirección es `0x09`.
+* [Esclavo1.ino](Codigo/Esclavo1.ino) — Programa del **Arduino esclavo 1**, encargado de controlar el LED mediante la dirección I2C `0x08`.
 
-El **Esclavo 3** realiza la lectura del potenciómetro mediante A0 y envía el valor al maestro cuando este lo solicita. Su dirección es `0x0A`.
+* [Esclavo2.ino](Codigo/Esclavo2.ino) — Programa del **Arduino esclavo 2**, encargado de controlar el servomotor mediante la dirección I2C `0x09`.
+
+* [Esclavo3.ino](Codigo/Esclavo3.ino) — Programa del **Arduino esclavo 3**, encargado de leer el potenciómetro y enviar su valor al maestro mediante la dirección I2C `0x0A`.
 
 [Ver carpeta Código](Codigo)
+
 
 ## Reporte
 
