@@ -45,7 +45,7 @@ El lector RFID RC522 se comunica con el Arduino mediante el protocolo SPI. El m�
 
 El LED verde indica un acceso permitido, mientras que el LED rojo indica un acceso denegado.
 
-![Diagrama de conexión](Diagrama.jpeg)
+![Diagrama de conexión](Diagrama/Diagrama.jpeg)
 
 [Ver carpeta Diagrama](Diagrama)
 
@@ -67,7 +67,7 @@ El tiempo de encendido de los LEDs se controla mediante `millis()`, permitiendo 
 
 En las pruebas realizadas mediante el Monitor Serie se observaron los mensajes correspondientes a la comunicación con el lector, la lectura de los UID y el resultado del control de acceso.
 
-![Prueba en Monitor Serie](Terminal.jpeg)
+![Prueba en Monitor Serie](Diagrama/Terminal.jpeg)
 
 [Ver carpeta Terminal](Terminal)
 
@@ -77,13 +77,13 @@ En las pruebas realizadas mediante el Monitor Serie se observaron los mensajes c
 
 Al acercar la tarjeta cuyo UID se encuentra registrado como autorizado, el sistema muestra el mensaje `ACCESO PERMITIDO` y enciende el LED verde durante 2000 ms.
 
-![LED verde](LED_verde.jpeg)
+![LED verde](Diagrama/LED_verde.jpeg)
 
 ### Acceso denegado
 
 Al acercar una tarjeta o llavero cuyo UID no corresponde al autorizado, el sistema muestra el mensaje `ACCESO DENEGADO` y enciende el LED rojo durante 2000 ms.
 
-![LED rojo](LED_rojo.jpeg)
+![LED rojo](Diagrama/LED_rojo.jpeg)
 
 ## Reporte
 
@@ -95,7 +95,7 @@ En el reporte se explica el funcionamiento del protocolo SPI utilizado por el le
 
 En el siguiente video se muestra el funcionamiento del sistema de control de acceso mediante el lector RFID RC522.
 
-[Ver video de la práctica](PEGA_AQUI_EL_LINK_DEL_VIDEO)
+[Ver video de la práctica](https://youtu.be/nyH8QqpdwpU)
 
 [Ver carpeta Video](Video)
 
