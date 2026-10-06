@@ -89,7 +89,7 @@ En el Monitor Serie se observan las lecturas de temperatura, presión atmosféri
 
 En el siguiente video se muestra el funcionamiento de la estación barométrica y la información mostrada en la matriz de LEDs.
 
-[Ver video de la práctica](PEGAR_ENLACE_DEL_VIDEO)
+[Ver video de la práctica](https://youtu.be/UhV9qVKZv70)
 
 [Ver carpeta Video](Video)
 
