@@ -97,7 +97,7 @@ En el Monitor Serie se observa la inclinación con su dirección, grados e inten
 
 En el siguiente video se muestra el funcionamiento del inclinómetro y la respuesta del motorreductor al inclinar el sensor.
 
-[Ver video de la práctica](PEGAR_ENLACE_DEL_VIDEO)
+[Ver video de la práctica](https://youtu.be/UhV9qVKZv70)
 
 [Ver carpeta Video](Video)
 
