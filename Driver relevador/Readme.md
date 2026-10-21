@@ -109,7 +109,7 @@ El `loop()` solo lee el Monitor Serie sin bloquear: junta los caracteres y ejecu
 | `E` | Mostrar el estado de ambos |
 | `M1,M0` | Varias órdenes seguidas en una línea (para la prueba de seguridad 1) |
 
-[Ver código Driver_Relevador.ino](Codigo/Driver_Relevador/Driver_Relevador.ino)
+[Ver código Driver_Relevador.ino](Codigo/Driver_Relevador.ino)
 
 [Ver carpeta Código](Codigo)
 
