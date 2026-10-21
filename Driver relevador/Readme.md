@@ -166,7 +166,7 @@ La captura del Monitor Serie se tomó en la simulación de Tinkercad, con el mis
 
 En el siguiente video se muestra el control del motor y del LED desde el Monitor Serie, el rechazo de órdenes demasiado seguidas y el estado seguro después del RESET.
 
-[Ver video de la práctica](PEGAR_ENLACE_DEL_VIDEO)
+[Ver video de la práctica](https://youtube.com/shorts/ZHlO-EXlY4w?feature=share)
 
 [Ver carpeta Video](Video)
 
