@@ -220,7 +220,7 @@ En el reporte se explica el filtro de rebotes de la clase `Boton`, la detección
 
 En el siguiente video se muestra el circuito en Tinkercad, el arranque seguro con el aviso de reinicio, el arranque con rampa, el paro inmediato, la prueba del apagón, la comparación entre arranque de golpe y con rampa, y la prueba de la ventana del filtro.
 
-[Ver video de la práctica](PEGAR_ENLACE_DEL_VIDEO)
+[Ver video de la práctica](https://youtu.be/QTUOvEkSXTw)
 
 [Ver carpeta Video](Video)
 
